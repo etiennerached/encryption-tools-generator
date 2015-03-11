@@ -1,3 +1,5 @@
+=== Wordpress Plugin ===
+
 === Encryption Tools Generator ===
 Contributors: etiennerached
 Tags: wordpress, security, encryption, tools, online generator, htpasswd, http authentication, md5, sha1, htaccess
